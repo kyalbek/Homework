@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background: url(https://mobimg.b-cdn.net/v3/fetch/94/94c56e15f13f1de4740a76742b0b594f.jpeg);
+    background-size: cover;
+    justify-content: center;
+    background-repeat: no-repeat;
+    display: flex;
+    border-radius: 20px;
+}
+div{
+    border-radius: 10px;
+}
+
+.conteiner{
+    margin-top:90px;
+    background-color: aliceblue;
+    width: 700px;
+    height: 550px;
+    position: relative;
+    border: 2px colid black;
+  
+}
+.title{
+    margin-left: 15px;
+    margin-top: 30px;
+ 
+}
+.txt-top{
+    margin-left: 15px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.a{
+    margin-top: 20px;
+}
+.txt{
+    margin-left: 15px;
+    position: absolute;
+    
+}
+.text{
+    
+    margin-left: 55px;
+    position: absolute;
+  
+    
+}
+.name1{
+    width: 300px;
+    height:25px ;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.name{
+    width: 300px;
+    height: 25px;
+    margin-top: 15px;
+    margin-left: 55px;
+}
+
+.text1{
+    margin-left:58px;
+    position: absolute;
+    
+}
+.name2{
+
+    width: 303px;
+    height: 25px;
+    margin-top: 15px;
+    margin-left: 58px;
+}
+  .txt1{
+    margin-top: 40px;
+    margin-left: 15px;
+  }
+
+.button{
+    color: beige;
+    background-color: rgb(27, 80, 252);
+    margin-left: 15px;
+    margin-top: 30px;
+    width: 300px;
+    height: 25px;
+    cursor: pointer;
+}
+.button:focus,
+.button:hover{
+    background-color: rgb(101, 150, 224);
+    
+}
+
